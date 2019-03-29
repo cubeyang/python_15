@@ -1,0 +1,5 @@
+t=(1,0.2,True,(1,22,3,'python'))
+print(t[3])
+print(t[::-1])
+print(t[-1][-1])
+print(t[-1][-1][1])
